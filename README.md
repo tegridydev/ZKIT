@@ -128,7 +128,7 @@ fn ingest_and_compress(data: Vec<u8>) -> CompressedData {
     // Create a polynomial from the data
     let poly = Polynomial::from_vec(data_fp.clone());
 
-    // "Compress" the polynomial (simplified example: take the first few coefficients)
+    // "Compress" the polynomial 
     let compressed_data = poly.to_vec();
 
     CompressedData::new(compressed_data)
