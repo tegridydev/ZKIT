@@ -1,4 +1,4 @@
-### ZKIT Blockchain Framework: Leveraging the Panopticon Theory with Zero Knowledge Proofs
+### ZKIT Blockchain Framework: Leveraging the Panopticon Observer Theory with Zero Knowledge Proofs
 
 ## Overview
 
